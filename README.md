@@ -1,0 +1,2 @@
+# pygame_Aircraft-War-Game
+   The title of our game is Aircraft War Game. This game is about shooting in space. This project was developed using python pygame.This is a single player game mode. We are focusing on developing a 2D aircraft war game. Player can shoot the enemies until they get hit by the enemies from the opposite. The main strategy is to shoot all the enemies ahead and move in four directions. 
